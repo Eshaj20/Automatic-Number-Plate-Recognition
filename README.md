@@ -50,13 +50,13 @@ Libraries |    OpenCV, EasyOCR
 🚀 Usage
 -------------------------------
 Clone the repository:
-                  >  git clone <repo-url>
+                    git clone <repo-url>
 
 Install dependencies:
-                  > pip install opencv-python easyocr
+                   pip install opencv-python easyocr
 
 Run the script:
-                  > python anpr.py --image <input_image_path>
+                   python anpr.py --image <input_image_path>
                     
 📊 Results
 --------------------------------
