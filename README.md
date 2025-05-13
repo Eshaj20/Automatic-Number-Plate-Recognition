@@ -13,12 +13,12 @@ This project demonstrates the implementation of an ANPR system using Python. The
 
 1. Installing and Importing Dependencies
 Installed Python libraries:
-     i)  OpenCV (for image processing)
-     ii) EasyOCR (for text extraction)
+     - OpenCV (for image processing)
+     - EasyOCR (for text extraction)
 
 2. Reading the Image
-i)  Loaded the input image.
-ii) Applied preprocessing filters (grayscale conversion, blurring) to enhance quality.
+- Loaded the input image.
+- Applied preprocessing filters (grayscale conversion, blurring) to enhance quality.
 
 4. Edge Detection
 Performed edge detection (e.g., Canny edge) to highlight object boundaries.
@@ -31,8 +31,8 @@ Integrated EasyOCR to extract alphanumeric text from the detected plate.
 
 7. Rendering the Result
 Displayed the processed image with:
-i) Detected number plate (bounding box).
-ii) Extracted text for verification.
+- Detected number plate (bounding box).
+- Extracted text for verification.
 
 -------------------------------
 # Key Optimizations
