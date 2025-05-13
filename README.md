@@ -1,15 +1,16 @@
-Automatic License/Number Plate Recognition (ANPR) 🚘📸
----------------------------------------------------------
+## Automatic License/Number Plate Recognition (ANPR)
+
 Automatic License/Number Plate Recognition (ANPR) is the process of detecting the position of a number plate and then using Optical Character Recognition (OCR) to identify the text on the plate. This system is widely used in real-world applications where accuracy is critical, such as traffic monitoring, parking management, and security systems.
 
-📌 Overview
------------------------------
+Overview :
 This project demonstrates the implementation of an ANPR system using Python. The system:
 1. Detects number plates in an image.
 2. Extracts the alphanumeric text using EasyOCR.
 
-🔧 Steps Implemented
------------------------------
+---------------------------------------------------------
+
+# Steps Implemented
+
 1. Installing and Importing Dependencies
 Installed Python libraries:
      i)  OpenCV (for image processing)
@@ -33,40 +34,41 @@ Displayed the processed image with:
 i) Detected number plate (bounding box).
 ii) Extracted text for verification.
 
-⚡ Key Optimizations
 -------------------------------
+# Key Optimizations
+
 ✔ High Accuracy: Used EasyOCR for robust text extraction.
 ✔ Real-World Adaptability: Optimized for varying:
 
 i) Lighting conditions.
 ii) Plate designs (fonts, colors, backgrounds).
 
-🛠 Tools and Technologies Used
 -------------------------------
+# Tools and Technologies Used
+
 Category  |	Technology       
 Language  |	Python
 Libraries |    OpenCV, EasyOCR
 
-🚀 Usage
 -------------------------------
+# Usage
 Clone the repository:
+
                     git clone <repo-url>
 
 Install dependencies:
+
                    pip install opencv-python easyocr
 
 Run the script:
+
                    python anpr.py --image <input_image_path>
-                    
-📊 Results
+
 --------------------------------
-✅ Successfully detected license plates in test images.
-✅ Extracted text with high accuracy using EasyOCR.
+                    
+# Results
 
-Example Output:
----------------------------------
-ANPR Detection Example (Replace with an actual demo image if available)
+- Successfully detected license plates in test images.
+- Extracted text with high accuracy using EasyOCR.
 
-📜 License
----------------------------------
-This project is open-source under the MIT License.
+
