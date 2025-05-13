@@ -37,11 +37,11 @@ ii) Extracted text for verification.
 -------------------------------
 # Key Optimizations
 
-✔ High Accuracy: Used EasyOCR for robust text extraction.
-✔ Real-World Adaptability: Optimized for varying:
+- High Accuracy: Used EasyOCR for robust text extraction.
+- Real-World Adaptability: Optimized for varying:
 
-i) Lighting conditions.
-ii) Plate designs (fonts, colors, backgrounds).
+1.Lighting conditions.
+2.Plate designs (fonts, colors, backgrounds).
 
 -------------------------------
 # Tools and Technologies Used
