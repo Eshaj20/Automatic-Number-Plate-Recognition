@@ -17,8 +17,8 @@ Installed Python libraries:
      - EasyOCR (for text extraction)
 
 2. Reading the Image
-- Loaded the input image.
-- Applied preprocessing filters (grayscale conversion, blurring) to enhance quality.
+     - Loaded the input image.
+     - Applied preprocessing filters (grayscale conversion, blurring) to enhance quality.
 
 4. Edge Detection
 Performed edge detection (e.g., Canny edge) to highlight object boundaries.
@@ -31,8 +31,8 @@ Integrated EasyOCR to extract alphanumeric text from the detected plate.
 
 7. Rendering the Result
 Displayed the processed image with:
-- Detected number plate (bounding box).
-- Extracted text for verification.
+     - Detected number plate (bounding box).
+     - Extracted text for verification.
 
 -------------------------------
 # Key Optimizations
