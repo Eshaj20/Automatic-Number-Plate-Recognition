@@ -46,9 +46,9 @@ ii) Extracted text for verification.
 -------------------------------
 # Tools and Technologies Used
 
-Category  |	Technology       
-Language  |	Python
-Libraries |    OpenCV, EasyOCR
+- Category   ---> Technology       
+- Language   ---> Python
+- Libraries  ---> OpenCV, EasyOCR
 
 -------------------------------
 # Usage
